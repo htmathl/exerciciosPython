@@ -1,4 +1,4 @@
-lista_nomes = ['bia', 'bicho', 'Joy', 'Yas', 'lu']
+lista_nomes = ['Bia', 'Bicho', 'Joy', 'Yas', 'Luh']
 
 #for nome in lista_nomes:
 #    print(nome)
