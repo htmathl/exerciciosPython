@@ -1,4 +1,4 @@
-filme = {'titulo': 'teste', 'duracao': '2 horas'}
+filme = {'titulo': 'teste', 'duracao': '6 horas'}
 
 print(filme['titulo'])
 
