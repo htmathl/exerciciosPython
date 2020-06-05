@@ -1,7 +1,7 @@
 import math
 
 pessoa = {
-    'nome': 'Groger',
+    'nome': 'Joyce',
     'CPF': '8912891478',
     'idade': 74,
     'email': 'matfd.2002@gmail.com'
